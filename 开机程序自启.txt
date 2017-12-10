@@ -1,0 +1,5 @@
+sudo vim /etc/rc.local
+添加
+/home/[你的用户名]/darwin-op/Linux/project/demo
+
+http://www.cnblogs.com/end/archive/2012/10/12/2721059.html
